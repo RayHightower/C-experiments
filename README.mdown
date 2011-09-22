@@ -4,5 +4,5 @@ Random C Programs
 This directory contains a bunch of random C programs that I am writing
 as I refresh my memory of the language. Stored at GitHub for disaster recovery purposes.
 
-Using [Learn C the Hard Way](http://c.learncodethehardway.org) by Zed Shaw
+Using [Learn C the Hard Way](http://c.learncodethehardway.org) by Zed Shaw.
 
