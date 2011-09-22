@@ -1,4 +1,4 @@
-= Random C Programs
+=Random C Programs
 
 This directory contains a bunch of random C programs written as I
 re-learn the language. Stored at GitHub for disaster recovery purposes.
