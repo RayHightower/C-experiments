@@ -11,9 +11,16 @@ as I refresh my memory of the language. Stored at GitHub for disaster recovery p
 
 ## To Compile and Run
 
+``` bash
+$ gcc [sourcefile].c
+
+$ ./a.out
+```
+
 `$ gcc [sourcefile].c`
 
 `$ ./a.out`
+```
 
 -OR-
 
