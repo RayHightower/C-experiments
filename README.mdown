@@ -12,10 +12,12 @@ as I refresh my memory of the language. Stored at GitHub for disaster recovery p
 ## To Compile and Run
 
 `$ gcc [sourcefile].c`
+
 `$ ./a.out`
 
 -OR-
 
 `$ gcc -o [executable-file-name] [sourcefile].c`
+
 `$ ./[executable-file-name]`
 
