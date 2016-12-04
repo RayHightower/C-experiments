@@ -4,8 +4,18 @@ Random C Programs
 This directory contains a bunch of random C programs that I am writing
 as I refresh my memory of the language. Stored at GitHub for disaster recovery purposes.
 
-Using:
+## Textbooks
 
 * [Learn C the Hard Way](http://c.learncodethehardway.org) by Zed Shaw.
 * [Head First C](http://shop.oreilly.com/product/0636920015482.do) by David Griffiths, Dawn Griffiths.
+
+## To Compile and Run
+
+`$ gcc [sourcefile].c`
+`$ ./a.out`
+
+-OR-
+
+`$ gcc -o [executable-file-name] [sourcefile].c`
+`$ ./[executable-file-name]`
 
