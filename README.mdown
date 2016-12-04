@@ -17,14 +17,11 @@ $ gcc [sourcefile].c
 $ ./a.out
 ```
 
-`$ gcc [sourcefile].c`
-
-`$ ./a.out`
-```
-
 -OR-
 
-`$ gcc -o [executable-file-name] [sourcefile].c`
+``` bash
+$ gcc -o [executable-file-name] [sourcefile].c
 
-`$ ./[executable-file-name]`
+$ ./[executable-file-name]
 
+```
